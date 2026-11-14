@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">My personnel phone AI</string>
+    <string name="accessibility_service_description">Allows My personnel phone AI to interact with supported phone screens when you explicitly enable it.</string>
+</resources>
